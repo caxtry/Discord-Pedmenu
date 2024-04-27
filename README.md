@@ -1,5 +1,5 @@
 # DISCORD-PEDMENU
-Simple pedmenu script. **QBCORE ONLY**
+Simple pedmenu script. **QBCORE AND ESX**
 
 ### What does it do?
 
