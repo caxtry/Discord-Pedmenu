@@ -1,5 +1,5 @@
 # DISCORD-PEDMENU
-Simple pedmenu script linked with Discord.
+Simple pedmenu script. **QBCORE ONLY**
 
 ### What does it do?
 
